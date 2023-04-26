@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://https://github.com/SebasQui97/SebasQui97/edit/main/header.png" alt="QuinDev GitHub README header image">
+ <img alt="GIF" src="https://https://github.com/SebasQui97/SebasQui97/edit/main/header.png">
  
 <!--
 **SebasQui97/SebasQui97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
