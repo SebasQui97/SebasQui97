@@ -9,7 +9,7 @@
 ## Acerca de mí
 
 - 🎓 &nbsp; Actualmente estoy cursando la carrera de FullStack en <a href="https://eggcooperation.com/es-co/"><strong>Egg Cooperation</strong></a>
-- 🚶 &nbsp;  Salir a caminar y contemplar la naturaleza me ayuda a despejar mi mente y a encontrar soluciones a errores en el código.
+- 🚶 &nbsp;&nbsp; Salir a caminar y contemplar la naturaleza me ayuda a despejar mi mente y a encontrar soluciones a errores en el código.
 
 
 
