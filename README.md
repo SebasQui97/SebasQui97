@@ -17,10 +17,10 @@
 
 ## Tecnologías
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)()
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)()
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)()
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0095D5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)()
-![NetBeans](https://img.shields.io/badge/NetBeans-ADD439.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)()
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-0095D5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+[![NetBeans](https://img.shields.io/badge/NetBeans-ADD439.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)]()
 
 
