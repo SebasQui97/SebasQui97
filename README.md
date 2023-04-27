@@ -1,7 +1,7 @@
 
 ![Presentación](QuinDev.gif)
 
-<h3 align="center">Técnico en programación de Software | Estudiante de programación | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+<h3 align="center">Técnico en programación de Software | Estudiante de FullStack </h3>
  
 <!--
 **SebasQui97/SebasQui97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
