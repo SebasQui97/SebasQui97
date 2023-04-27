@@ -8,7 +8,7 @@
 
 ## Acerca de mí
 
-- 🎓 Actualmente estoy cursando la carrera de FullStack
+- 🎓 Actualmente estoy cursando la carrera de FullStack en <a href="https://github.com/EggCooperation"><strong>Egg Cooperation</strong></a>
 
 
 
