@@ -11,7 +11,6 @@
 - 🎓 &nbsp; Actualmente estoy cursando la carrera de FullStack en <a href="https://eggcooperation.com/es-co/"><strong>Egg Cooperation</strong></a>
 - 📚 &nbsp; Estoy complementando mi formación con un curso en línea que cubre <strong>Javascript, HTML5, CSS3</strong> y <strong>NodeJs.</strong>
 - ✒️ &nbsp; Me apasiona el diseño y creo que es una habilidad <strong>importante</strong> para cualquier desarrollador.
-- 🚶 &nbsp;&nbsp;&nbsp; Salir a caminar y contemplar la naturaleza me ayuda a despejar mi mente y a encontrar soluciones a errores en el código.
 - ⚖️ &nbsp; Creo que mantener un <strong>equilibrio</strong> entre el trabajo y la vida personal es importante para el éxito a largo plazo.
 
 
