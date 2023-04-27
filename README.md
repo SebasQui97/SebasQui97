@@ -8,7 +8,7 @@
 
 ## Acerca de mí
 
-- 🎓
+- 🎓 Actualmente estoy cursando la carrera de FullStack
 
 
 
