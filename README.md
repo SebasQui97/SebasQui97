@@ -7,7 +7,11 @@
 ---
 
 ## Acerca de mí
- 
+
+- 🎓
+
+
+
 <!--
 **SebasQui97/SebasQui97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
