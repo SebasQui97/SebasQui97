@@ -1,4 +1,4 @@
-![Presentación](QuinDev.gif)
+![Presentación]()
 
 <div id="header" align="center">
  <br>
