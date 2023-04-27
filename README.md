@@ -1,4 +1,4 @@
-![](Presentation.gif)
+![Presentation](Presentation.gif)
 
 <br>
 <br>
@@ -13,19 +13,14 @@
 - 📚 &nbsp; Estoy complementando mi formación con un curso en línea que cubre <strong>Javascript, HTML5, CSS3</strong> y <strong>NodeJs.</strong>
 - ⚖️ &nbsp; Creo que mantener un <strong>equilibrio</strong> entre el trabajo y la vida personal es importante para el éxito a largo plazo.
 
+---
+
+## Tecnologías
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0095D5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
+![NetBeans](https://img.shields.io/badge/NetBeans-ADD439.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)
 
 
-<!--
-**SebasQui97/SebasQui97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
