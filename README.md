@@ -23,6 +23,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-0095D5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 [![NetBeans](https://img.shields.io/badge/NetBeans-ADD439.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)]()
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)]
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)]()
 
 
