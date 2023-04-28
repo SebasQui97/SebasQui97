@@ -27,7 +27,7 @@
 [![NetBeans](https://img.shields.io/badge/NetBeans-ADD439.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)]()
 <br>
 [![Lenguajes](https://img.shields.io/badge/Diseño-:-808080?style=for-the-badge&labelColor=black)]()
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Photoshop](https://img.shields.io/badge/Photoshop-001e36.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)]()
 [![Illustrator](https://img.shields.io/badge/Illustrator-ff9a00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=101010)]()
 
